@@ -1,1 +1,15 @@
-# DevOps_Html_Code
+<!DOCTYPE html>
+<html>
+<head>
+<title>DevOps Chachwa Group</title>
+</head>
+<body>
+
+<h1>DevOps Hub</h1>
+<p>A DevOps engineer introduces processes, tools, 
+and methodologies to balance needs throughout the software development 
+life cycle, from coding and deployment, to maintenance and updates. 
+Development teams and IT operations teams can have different skills and different goals.</p>
+
+</body>
+</html>
